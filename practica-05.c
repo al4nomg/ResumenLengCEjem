@@ -12,7 +12,7 @@ int main(int argc, char const *argv[])
 //Entrada
     printf("Cuanto vale cada articulo?\n");
     scanf("%f", &precio);
-    printf("Cuantos articulos see vendieron en el mes?\n");
+    printf("Cuantos articulos se vendieron en el mes?\n");
     scanf("%f", &venta);
 
 //Proceso
